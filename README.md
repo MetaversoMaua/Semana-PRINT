@@ -1,4 +1,4 @@
-# SPRINT - Galeria de Tiro VR 🎯
+# Semana PRINT 2026 - Galeria de Tiro VR 🎯
 
 Galeria de tiro em VR com **3 Armas, 3 Alvos e 3 Modos de Jogo**
 
